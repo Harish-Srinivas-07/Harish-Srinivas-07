@@ -10,6 +10,7 @@ I am a Computer Science enthusiast who is passionate about learning new technolo
 # Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,c" />
-    <img src="https://skillicons.dev/icons?i=html,js,tailwindcss,react" />
+  <a href="https://harishsrinivas.netlify.app">
+    <img src="https://skillicons.dev/icons?i=python,c,html,js,tailwindcss,react" />
+  </a>
 </p>
