@@ -1,4 +1,4 @@
-Hi 🥸 My name is Harish Srinivas
+Hi 🐻‍❄️ My name is Harish Srinivas
 =================================
 passionate about learning new technologies every day.
 
@@ -9,7 +9,7 @@ I am currently studying Computer Science at SA Engineering College, Chennai.
 
 # Skills
 
-<p align="center">
+<p align="justify-start">
   <a href="https://harishsrinivas.netlify.app">
     <img src="https://skillicons.dev/icons?i=python,c,html,js,tailwindcss,react" />
   </a>
