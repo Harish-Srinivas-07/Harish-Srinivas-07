@@ -1,11 +1,11 @@
-Hi 👋 My name is Harish Srinivas
+Hi 🥸 My name is Harish Srinivas
 =================================
+passionate about learning new technologies every day.
 
 I am currently studying Computer Science at SA Engineering College, Chennai.
 *   🧠 I'm learning to learn :)
 *   ⚡ ... . . -- ... / .-.. .. -.- . / -.-- --- ..- / .... .- ...- . / .- / .-.. --- - / --- ..-. / - .. -- . -.-.--
 
-I am a Computer Science enthusiast who is passionate about learning new technologies every day.
 
 # Skills
 
