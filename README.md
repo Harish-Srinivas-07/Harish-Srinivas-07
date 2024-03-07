@@ -11,5 +11,5 @@ I am a Computer Science enthusiast who is passionate about learning new technolo
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c" />
-    <img src="https://skillicons.dev/icons?i=html,js,tailwindss,react" />
+    <img src="https://skillicons.dev/icons?i=html,js,tailwindcss,react" />
 </p>
