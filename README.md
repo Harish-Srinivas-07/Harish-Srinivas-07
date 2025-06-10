@@ -5,9 +5,7 @@
 🧠 Tech explorer — always learning, building, and refining  
 🚀 1+ year of delivering production-grade applications (MIA, SAEC Spotbus, and more)
 
-📎 [Portfolio](https://harishsrinivas.netlify.app)  
-🔗 [LinkedIn](https://linkedin.com/in/harishsrinivas-sr)  
-📦 [GitHub](https://github.com/Harish-Srinivas-07)
+📎 [Portfolio](https://harishsrinivas.netlify.app)  | 🔗 [LinkedIn](https://linkedin.com/in/harishsrinivas-sr) | 📦 [GitHub](https://github.com/Harish-Srinivas-07)
 
 ---
 
