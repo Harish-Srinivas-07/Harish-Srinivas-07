@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://harishsrinivas.netlify.app">
-    <img src="[https://skillicons.dev/icons?i=python,c,html,js,tailwindcss,react,vite,figma,flutter,firebase](https://skillicons.dev/icons?i=flutter,supabase,react,tailwindcss,vite,express,python,c,figma,firebase,postman,github,androidstudio)" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,supabase,react,tailwindcss,vite,express,python,c,figma,firebase,postman,github,androidstudio" alt="Skills" />
   </a>
 </p>
 
