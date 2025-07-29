@@ -3,11 +3,10 @@
 
 🔧 Crafting real-time, scalable apps using **Flutter**, **Supabase**, **React**, & **Firebase**  
 🧠 Tech explorer — always learning, building, and refining  
-🚀 1+ year of delivering production-grade applications (MIA, SAEC Spotbus, and more)
+🚀 1+ year of delivering production-grade applications (MIA,GoStream, SAEC Spotbus, and more)
 
 📎 [Portfolio](https://harishsrinivas.netlify.app)  | 🔗 [LinkedIn](https://linkedin.com/in/harishsrinivas-sr) | 📦 [GitHub](https://github.com/Harish-Srinivas-07)
 
----
 
 ## 🧭 About Me  
 🎓 Computer Science graduate with a passion for impactful, real-world software  
@@ -15,7 +14,6 @@
 🧠 Still learning — but smarter, faster, and with purpose  
 ⚡ `... . . -- ... / .-.. .. -.- . / -.-- --- ..- / .... .- ...- . / .- / .-.. --- - / --- ..-. / - .. -- . -.-.--`
 
----
 
 ## 🛠️ Tech Stack  
 
