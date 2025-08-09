@@ -1,6 +1,8 @@
 # Hi, I'm Harish Srinivas 👋  
 **Software Developer | Flutter & Full Stack Enthusiast**
 
+<img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Harish-Srinivas-07&theme=road_trip&pixelate_avatar=false&screen_effect=true" />
+
 🔧 Crafting real-time, scalable apps using **Flutter**, **Supabase**, **React**, & **Firebase**  
 🧠 Tech explorer — always learning, building, and refining  
 🚀 1+ year of delivering production-grade applications (MIA,GoStream, SAEC Spotbus, and more)
