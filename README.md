@@ -7,8 +7,10 @@
 🧠 Tech explorer — always learning, building, and refining  
 🚀 1+ year of delivering production-grade applications (MIA,GoStream, SAEC Spotbus, and more)
 
-📎 [Portfolio](https://harishsrinivas.netlify.app)  | 🔗 [LinkedIn](https://linkedin.com/in/harishsrinivas-sr) | 📦 [GitHub](https://github.com/Harish-Srinivas-07)
-
+### 🤝 Let’s Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat\&logo=netlify\&logoColor=white)](https://harishsrinivas.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harishsrinivas-sr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Harish-Srinivas-07)
 
 ## 🧭 About Me  
 🎓 Computer Science graduate with a passion for impactful, real-world software  
